@@ -62,10 +62,10 @@ Colons can be used to align columns.
 2. Μπαταριοθήκη 2xΑΑ  0,40χ2= 0,80
 3. Buzzer 2-5V 30mA  = 0,65
 4. Hobby Motor - Gear = 2,40
-5. Servo Micro 2.2kg.cm Plastic Gears = 3,60
+5. Servo Micro 2.2kg.cm Plastic Gears  3,60x2=7,20
 6. Jumper Wires 15cm Female to Male - Pack of 10 1,80χ2=3,6
 
-Σύνολο = 48,85
+Σύνολο = 50
 
 
 
