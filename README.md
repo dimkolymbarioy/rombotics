@@ -59,13 +59,15 @@ O σταθμός ειδοποιήσεις θα μπορεί να συνδεθε�
 Colons can be used to align columns.
 ### Υλικά
 1. BBC micro:bit Board 18,90χ2= 37,8
-2. Μπαταριοθήκη 2xΑΑ  0,40χ2= 0,80
+2. Μπαταριοθήκη 2xΑΑ με JST PH   0,40χ2= 0,80
 3. Buzzer 2-5V 30mA  = 0,65
 4. Hobby Motor - Gear = 2,40
 5. Servo Micro 2.2kg.cm Plastic Gears  3,60x2=7,20
 6. Jumper Wires 15cm Female to Male - Pack of 10 1,80χ2=3,6
+7. Alligator Test Leads - Multicolored 10 Pack 3
+8.
 
-Σύνολο = 50
+Σύνολο = 53
 
 
 
