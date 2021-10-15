@@ -63,8 +63,13 @@ Colons can be used to align columns.
 
 ### Φωτογραφικό Υλικό
 ![Screenshot](IMAGES/1.jpg)
+
 ![Screenshot](IMAGES/2.jpg)
+
 ![Screenshot](IMAGES/3.jpg)
+
 ![Screenshot](IMAGES/4.jpg)
+
 ![Screenshot](IMAGES/5.jpg)
+
 ![Screenshot](IMAGES/6.jpg)
