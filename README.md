@@ -58,3 +58,6 @@ Colons can be used to align columns.
 8.
 
 Σύνολο = 53
+
+### Φωτογραφικό Υλικό
+![Screenshot](IMAGES/1.jpg)
