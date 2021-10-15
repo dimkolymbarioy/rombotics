@@ -1,4 +1,3 @@
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/NJLwa74qC5U/1.jpg)](http://www.youtube.com/watch?v=NJLwa74qC5U "My video")
 # Ασύρματος σταθμός ειδοποίησης και πρόληψης φυσικών καταστροφών.
 ### Εισαγωγή
 Θέλουμε να δημιουργήσουμε ένα project με απλά υλικά και την  ενεργητική συμμετοχή των μαθητών. Χρησιμοποιούμε  την λογική απλών ηλεκτρονικών κυκλωμάτων σε συνδυασμό με προγραμματισμό της πλακέτας Microbit 
@@ -59,6 +58,8 @@ Colons can be used to align columns.
 8.
 
 Σύνολο = 53
+### Παρουσίαση Youtube
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/NJLwa74qC5U/1.jpg)](http://www.youtube.com/watch?v=NJLwa74qC5U "My video")
 
 ### Φωτογραφικό Υλικό
 ![Screenshot](IMAGES/1.jpg)
