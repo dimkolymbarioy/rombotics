@@ -60,4 +60,4 @@ Colons can be used to align columns.
 Σύνολο = 53
 
 ### Φωτογραφικό Υλικό
-![Screenshot](IMAGES/1.jpg width="200")
+![Screenshot](IMAGES/1.jpg width=200)
